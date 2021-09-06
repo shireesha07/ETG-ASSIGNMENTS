@@ -30,4 +30,4 @@ we have added  features per product
 * saling the items
 
 ## Contact info
-linkedin.com/in/paturi-shireesha 
+linkedin :linkedin.com/in/paturi-shireesha 
